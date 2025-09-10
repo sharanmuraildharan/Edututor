@@ -1,4 +1,4 @@
-# EduTutor.io - Your Personalized AI Tutor
+#Guru.io - Your Personalized AI Tutor
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge" alt="AI Powered">
@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-**EduTutor.io** is an advanced AI-powered educational platform that provides personalized tutoring experiences using cutting-edge language models. Built with IBM Granite 3.3-2B and Google Gemini, it transforms any learning material into an interactive, adaptive learning experience.
+**Guru.io** is an advanced AI-powered educational platform that provides personalized tutoring experiences using cutting-edge language models. Built with IBM Granite 3.3-2B and Google Gemini, it transforms any learning material into an interactive, adaptive learning experience.
 
 ### 🎯 Mission
 To democratize quality education by providing every learner with a personalized AI tutor that adapts to their learning style, pace, and needs.
